@@ -1,0 +1,23 @@
+{
+  "name": "dueros-ssml",
+  "version": "1.0.0",
+  "description": "dueros ssml",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/www-lightdark-tech/dueros-ssml.git"
+  },
+  "keywords": [
+    "dueros",
+    "ssml"
+  ],
+  "author": "lightdarktech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/www-lightdark-tech/dueros-ssml/issues"
+  },
+  "homepage": "https://github.com/www-lightdark-tech/dueros-ssml#readme"
+}
