@@ -4,7 +4,7 @@
   "description": "dueros ssml",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/www-lightdark-tech/dueros-ssml/issues"
   },
-  "homepage": "https://github.com/www-lightdark-tech/dueros-ssml#readme"
+  "homepage": "https://github.com/www-lightdark-tech/dueros-ssml#readme",
+  "dependencies": {
+    "xmlbuilder": "^13.0.2"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
