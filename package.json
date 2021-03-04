@@ -1,6 +1,6 @@
 {
   "name": "dueros-ssml",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "dueros ssml",
   "main": "index.js",
   "types": "index.d.ts",
