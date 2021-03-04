@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "dueros ssml",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "jest"
   },
